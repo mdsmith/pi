@@ -22,3 +22,9 @@
 [submodule "pbsmrtpipe"]
 	path = pbsmrtpipe
 	url = git://github.com/PacificBiosciences/pbsmrtpipe.git
+[submodule "pypeFLOW"]
+	path = pypeFLOW
+	url = git://github.com/PacificBiosciences/pypeFLOW.git
+[submodule "FALCON"]
+	path = FALCON
+	url = git://github.com/PacificBiosciences/FALCON.git
