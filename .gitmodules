@@ -28,3 +28,6 @@
 [submodule "FALCON"]
 	path = FALCON
 	url = git://github.com/PacificBiosciences/FALCON.git
+[submodule "FALCON-pbsmrtpipe"]
+	path = FALCON-pbsmrtpipe
+	url = git://github.com/PacificBiosciences/FALCON-pbsmrtpipe.git
